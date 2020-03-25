@@ -1,0 +1,22 @@
+_repo: The-philosophy-of-biology_61663
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Johnstone, James Johnstone, chevalier de
+    alias: Johnstone de Moffatt
+    birthdate: 1719
+    gutenberg_agent_id: '6889'
+    url: http://www.gutenberg.org/2009/agents/6889
+description: ''
+gutenberg_issued: '2020-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61663'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The philosophy of biology
+url: http://www.gutenberg.org/ebooks/61663
